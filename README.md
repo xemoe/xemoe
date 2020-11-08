@@ -55,4 +55,4 @@ I have longterm focus on making quality product and self continuous improve abou
 -  https://github.com/xemoe/php
 -  https://github.com/xemoe/dmid2json
 -  https://github.com/xemoe/go-monitor
--  https://github.com/xemoe/go-layout
+-  https://github.com/xemoe/go-example-layout
