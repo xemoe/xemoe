@@ -2,13 +2,26 @@
 #### Contact: blckpearl.sheeper@gmail.com 
 
 ```
-I am a FullStack developer with experience in it-security research & development.
+I am a FullStack developer living in Bangkok, Thailand.
 
 I have experience in Backend development with PHP Laravel framework 
 and Frontend with Vue.js and small service written in Go.
-
-I have longterm focus on making quality product and self continuous improve about design pattern, SOLID principle, CleanCode and Software Testing.
 ```
+---
+#### GitHub stats
+|               |               |
+| ------------- | ------------- |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xemoe&show_icons=true&theme=default&hide_border=true) | ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=xemoe&theme=default&hide_border=true") |
+
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=xemoe&hide_border=true&bg_color=ffffff&area_color=1f6fea&line=38d252&point=1f6fea&color=3f3f3f)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=xemoe&layout=compact&langs_count=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+#### Pinned Repositories
+
+[![Forkxhop-v1](https://github-readme-stats.vercel.app/api/pin/?username=xemoe&repo=forkxhop-v1&theme=default)](https://github.com/xemoe/forkxhop-v1)
+
 ---
 
 ### Technical Experience
