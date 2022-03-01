@@ -32,6 +32,9 @@ and Frontend with Vue.js and small service written in Go.
 -  Design and develop a Product Software with PHP Laravel (ระบบ Centralized log)
 -  Design and develop a Government Software ~2 years (ระบบงานของราชการ)
 -  Write automated testing with Codeception, Robotframework
+-  ติดตั้ง/ดูแล ระบบงานต่างๆ เช่น 
+    - คอนฟิก docker-compose,Dockerfile เว็บไซต์ของบริษัท (Wordpress), Gitlab สำหรับใช้งานในทีมพัฒนา
+    - จัดทำเอกสารการติดตั้ง,สำรองเว็บไซต์ของบริษัท
 
 ---
 
