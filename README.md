@@ -24,38 +24,3 @@ and Frontend with Vue.js and small service written in Go.
 #### Pinned Repositories
 
 [![laravel8-coreui-admin-template](https://github-readme-stats.vercel.app/api/pin/?username=xemoe&repo=laravel8-coreui-admin-template&theme=default&show_owner=true)](https://github.com/xemoe/laravel8-coreui-admin-template)
-
----
-
-### Technical Experience
-
--  Design and develop a Product Software with PHP Laravel (ระบบ Centralized log)
--  Design and develop a Government Software ~2 years (ระบบงานของราชการ)
--  Write automated testing with Codeception, Robotframework
--  ติดตั้ง/ดูแล ระบบงานต่างๆ เช่น 
-    - คอนฟิก docker-compose,Dockerfile เว็บไซต์ของบริษัท (Wordpress), Gitlab สำหรับใช้งานในทีมพัฒนา
-    - จัดทำเอกสารการติดตั้ง,สำรองเว็บไซต์ของบริษัท
-
----
-
-### Training
--  Scrum Training (3 days)
--  Continuous Integration With Jenkins (2 days)
--  Basic Software Testing (2 days)
-
----
-
-### Language and Tools
--  PHP, Golang, NodeJS, Shell, CSS
--  MySQL, MSSQL, MongoDB, Elasticsearch
--  Laravel, Vue.js, Angular 1, jQuery, Bootstrap
--  RobotFramework, Codeception
--  Docker, Vagrant (Shell and Ansible provision), Ansible
-
----
-### Previous working (Public only)
--  https://github.com/xemoe?tab=repositories&q=&type=source
--  https://github.com/xemoe/php
--  https://github.com/xemoe/dmid2json
--  https://github.com/xemoe/go-monitor
--  https://github.com/xemoe/go-example-layout
