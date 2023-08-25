@@ -23,4 +23,4 @@ and Frontend with Vue.js and small service written in Go.
 
 #### Pinned Repositories
 
-[![laravel8-coreui-admin-template](https://github-readme-stats.vercel.app/api/pin/?username=xemoe&repo=laravel8-coreui-admin-template&theme=default&show_owner=true)](https://github.com/xemoe/laravel8-coreui-admin-template)
+[![xemoe-exchange-app](https://github-readme-stats.vercel.app/api/pin/?username=xemoe&repo=xemoe-exchange-app&theme=default&show_owner=true)](https://github.com/xemoe/xemoe-exchange-app)
