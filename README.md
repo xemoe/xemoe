@@ -5,7 +5,7 @@
 I am a FullStack developer living in Bangkok, Thailand.
 
 I have experience in Backend development with PHP Laravel framework 
-and Frontend with Vue.js and small service written in Go.
+and currently working on C# Windows application (WPF). -> https://arakav.com
 ```
 
 ![Stalked by](https://komarev.com/ghpvc/?username=xemoe&color=f08f8f)
