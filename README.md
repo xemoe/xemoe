@@ -4,8 +4,11 @@
 ```
 I am a FullStack developer living in Bangkok, Thailand.
 
-I have experience in Backend development with PHP Laravel framework 
-and currently working on Laravel and C# Windows application (WPF). 99% Contribute at -> https://serv1.arakav.com
+I have experience in Backend development with
+
+- PHP with [Laravel](https://laravel.com)
+- Typescript with [NextJS](https://nextjs.org/)
+
 ```
 
 ![Stalked by](https://komarev.com/ghpvc/?username=xemoe&color=f08f8f)
